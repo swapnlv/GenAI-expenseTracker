@@ -1,0 +1,32 @@
+[
+    {
+        "description": "buying baby clothes",
+        "amount": 900,
+        "category": "Shopping",
+        "date": "2025-06-08"
+    },
+    {
+        "description": "eating Idli Dosa",
+        "amount": 600,
+        "category": "Food",
+        "date": "2025-06-07"
+    },
+    {
+        "description": "buying baby clothes",
+        "amount": 300,
+        "category": "Shopping",
+        "date": "2025-05-31"
+    },
+    {
+        "description": "buying chocolate",
+        "amount": 200,
+        "category": "Food",
+        "date": "2025-06-01"
+    },
+    {
+        "description": "Kitchen Chimney",
+        "amount": 15000,
+        "category": "Home Appliance",
+        "date": "2025-05-25"
+    }
+]

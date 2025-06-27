@@ -1,0 +1,20 @@
+[
+    {
+        "description": "Milk Shake",
+        "amount": 299.0,
+        "category": "Food",
+        "date": "2025-05-02"
+    },
+    {
+        "description": "AC",
+        "amount": 40000.0,
+        "category": "Electronics",
+        "date": "2025-05-02"
+    },
+    {
+        "description": "Groceries",
+        "amount": 500.0,
+        "category": "Food",
+        "date": "2025-05-02"
+    }
+]

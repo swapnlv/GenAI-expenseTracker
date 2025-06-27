@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+requests
+langchain
+langchain_community
+# ...add any other dependencies you use...

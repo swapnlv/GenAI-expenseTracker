@@ -1,0 +1,5 @@
+azure_openai:
+  api_key: API_KEY_PLACEHOLDER
+  api_base: "https://my-openai-instancev1.openai.azure.com/"
+  deployment_name: "gpt-4"
+  api_version: "2025-01-01-preview"
