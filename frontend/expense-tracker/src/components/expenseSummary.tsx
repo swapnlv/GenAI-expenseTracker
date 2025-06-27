@@ -1,6 +1,6 @@
 // components/Summary.tsx
 
-import React, { useEffect, useState } from 'react';
+import { useEffect, useState } from 'react';
 import { PieChart, Pie, Cell, Tooltip, Legend, ResponsiveContainer } from 'recharts';
 
 type SummaryData = Record<string, number>;
